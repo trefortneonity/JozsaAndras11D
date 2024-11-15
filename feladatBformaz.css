@@ -1,0 +1,101 @@
+body
+{
+    background-color: #9cee59;
+    color: #000000;
+}
+
+a:link , a:visited , a:active
+{
+    color: #999999;
+}
+
+.fotabla
+{
+    border: 0;
+    width: 980px;
+    margin: auto;
+    background-color: #509050;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+.masiktabla
+{
+    margin: auto;
+    background-color: white;
+    border: 0;
+    padding: 0;
+    border-spacing: 1px;
+    width: 940px;
+}
+
+.fotabla td, .masiktabla td
+{
+    vertical-align: top;
+}
+
+.elokeszites
+{
+    vertical-align: top;
+}
+
+.kep
+{
+    width: 940px;
+    height: 200px;
+}
+
+.menu td
+{
+    background-color: black;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    vertical-align: middle;
+}
+
+
+
+.masikkep
+{
+    float: right;
+    border: 1px solid;
+    height: 540px;
+    width: 307px;
+    margin-left: 5px;
+}
+
+
+
+.kiemeles
+{
+    font-weight: bold;
+}
+
+.jobbnyil
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.jobbnyil img
+{
+    width: 60px;
+    height: auto;
+}
+
+.balnyil
+{
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+
+.balnyil img
+{
+    width: 50px; 
+    height: auto;
+}
+
